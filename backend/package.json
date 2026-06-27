@@ -6,6 +6,7 @@
   "type": "module",
   "scripts": {
     "start": "node server.js",
+    "build": "echo \"No build required\"",
     "dev": "nodemon server.js",
     "seed": "node seed.js"
   },
