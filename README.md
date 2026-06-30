@@ -9,7 +9,7 @@ CityPulse is a full-stack MERN web application that enables users to share real-
 https://citypulse-frontend-cmdk.onrender.com/pulse
 
 **Backend API:**  
-https://citypulse-backend-4cio.onrender.com
+https://citypulse-backend-4cio.onrender.com/api/health
 
 ---
 ## ✨ Features
